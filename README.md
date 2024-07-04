@@ -20,4 +20,4 @@ Este projeto tem como objetivo praticar e consolidar meus conhecimentos em HTML 
 ## Como Acessar
 
 Você pode visualizar o projeto ao clonar este repositório e abrir o arquivo `index.html` em seu navegador.
-﻿# pagina-de-apresenta-o
+
